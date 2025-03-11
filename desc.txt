@@ -1,24 +1,19 @@
-# Roman Solitaire
+Certainly! Here's a description of the game and its rules for a new player:
+Game Name: Omni-Capture (or another suitable name)
+Description:
+Omni-Capture is a two-player strategy board game that combines elements of Checkers and Chess. It's played on an 8x8 grid board with white and black pieces. The game offers a unique blend of simple rules and complex strategy, making it accessible to beginners while providing depth for experienced players.
+Game Components:
 
-<p align="center">
- <a href="https://github.com/SiENcE/roman_solitaire/blob/main/assets/logo_small.png">
-  <img border="0" src="https://github.com/SiENcE/roman_solitaire/blob/main/assets/logo_small.png">
- </a>
-</p>
-
-"Roman Solitaire" is a two-player strategy board game that combines elements of Checkers and Chess. It's played on an 8x8 grid board with white and black pieces. The game offers a unique blend of simple rules and complex strategy, making it accessible to beginners while providing depth for experienced players.
-
-## Game Components:
 8x8 grid board
 9 white pieces
 9 black pieces
 
-## Setup:
-The 18 pieces (9 white and 9 black) are randomly placed on the board at the start of the game.
+Setup:
 
+The 18 pieces (9 white and 9 black) are randomly placed on the board at the start of the game.
 White moves first.
 
-## Rules:
+Rules:
 
 1. Movement:
 * Players take turns moving one piece per turn.
@@ -45,18 +40,10 @@ White moves first.
 6. Draw:
 * If a position is reached where neither player can make a legal move, the game is a draw.
 
-Players can be either human or AI-controlled.
-
-There's a "best move" suggestion feature that highlights the optimal move for the current player.
-
-## Strategy Tips:
-
+Strategy Tips:
 Control the center of the board to maximize your movement options.
 Try to create formations that protect your pieces while threatening your opponent's.
 Look for opportunities to make captures, but be cautious of leaving your pieces vulnerable.
-
 Plan multiple moves ahead, anticipating your opponent's responses.
 
-This game combines elements of checkers (with the capturing mechanism) and chess (with the movement to adjacent squares), but with its own unique twist in terms of setup and win conditions.
-
-The additional random initial setup ensures that each game starts with a fresh tactical landscape, adding to its replay value.
+This game combines the simplicity of piece movement from Chess with the capture mechanics of Checkers, creating a unique and engaging strategic experience. The random initial setup ensures that each game starts with a fresh tactical landscape, adding to its replay value.
