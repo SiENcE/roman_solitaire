@@ -1,12 +1,14 @@
 # Roman Solitaire
 
 <p align="center">
- <a href="https://github.com/SiENcE/roman_solitaire/blob/main/assets/logo_small.png">
+ <a href="https://crankgaming.itch.io/roman-solitaire">
   <img border="0" src="https://github.com/SiENcE/roman_solitaire/blob/main/assets/logo_small.png">
  </a>
 </p>
 
 "Roman Solitaire" is a two-player strategy board game that combines elements of Checkers and Chess. It's played on an 8x8 grid board with white and black pieces. The game offers a unique blend of simple rules and complex strategy, making it accessible to beginners while providing depth for experienced players.
+
+Try it online: https://crankgaming.itch.io/roman-solitaire
 
 ## Game Components:
 8x8 grid board
